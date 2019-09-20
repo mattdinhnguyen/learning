@@ -1,3 +1,4 @@
+# encoding=utf8
 def run_tests(tests, function):
     """
     Runs provided test cases and reports failure or success
