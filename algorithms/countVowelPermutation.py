@@ -10,6 +10,7 @@ class Solution:
     for k,v in g.items():
         for l in v:
 
+
     perm = OrderedDict([(1,{j:1}) for j in range(5)])
     for j in range(5):
         perm[1][j] = 1
